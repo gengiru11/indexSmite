@@ -1,0 +1,29 @@
+ img {
+    width: 300;
+    height: 100;
+    background: none;
+}
+
+body{
+    background: black;
+}
+
+p{
+    color: aliceblue;
+    font-size: 150%;
+    font-family: Cyberjunkies;
+}
+
+li{
+    color: aliceblue;
+}
+
+a{
+    color: beige;
+    text-decoration: none;
+    font-family: Cyberjunkies;
+      
+}
+a:hover{
+    color:blue;
+}
